@@ -1,10 +1,11 @@
 # auto-1985
 
-install: <br>
-* streamlit <br>
-* pickle
+**Install**: 
+<br>
+* streamlit 
+<br>
 
-run:
+**Run:**
 <br>
 * streamlit run app.py
 
