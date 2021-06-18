@@ -1,7 +1,9 @@
 # auto-1985
 
-**Install: <br>
-* streamlit <br>
+**Install: 
+<br>
+* streamlit 
+<br>
 
 **Run:
 <br>
