@@ -1,11 +1,11 @@
 # auto-1985
 
-**Install: 
+**Install**: 
 <br>
 * streamlit 
 <br>
 
-**Run:
+**Run:**
 <br>
 * streamlit run app.py
 
