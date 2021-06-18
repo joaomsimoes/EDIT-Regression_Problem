@@ -2,7 +2,6 @@
 
 install: <br>
 * streamlit <br>
-* pickle
 
 run:
 <br>
