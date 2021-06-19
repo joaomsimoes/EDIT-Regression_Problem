@@ -7,6 +7,7 @@ def load_model():
         data = pickle.load(file)
     return data
 
+
 data = load_model()
 
 model = data["model"]
